@@ -14,3 +14,5 @@ loss = Huber , Matric = MAE
 ![image](https://github.com/ChouHsuan-Cheng/paper/blob/main/result_table/loss_Huber_Matric_MAE.png)  
 loss = Huber , Matric = MSE
 ![image](https://github.com/ChouHsuan-Cheng/paper/blob/main/result_table/loss_Huber_Matric_MSE.png)  
+parameter  
+![image](https://github.com/ChouHsuan-Cheng/paper/blob/main/result_table/parameter.png)  
